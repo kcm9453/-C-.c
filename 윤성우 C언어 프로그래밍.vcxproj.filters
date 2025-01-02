@@ -21,5 +21,8 @@
     <ClCompile Include="SimpleAddone.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SimpleAddTwo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
