@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main_b(void)
 {
 	int num1 = 0, num2 = 0;
 	int num3 = 30, num4 = 40;
