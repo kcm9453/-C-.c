@@ -42,5 +42,8 @@
     <ClCompile Include="OperatorSix.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="OperatorSeven.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
